@@ -1,0 +1,20 @@
+[
+    {
+        "fname": "Subrata",
+        "lname": "21",
+        "designation": "Software engineer",
+        "lan1": "C#",
+        "email": "aiubsubratadas1999@gmail.com",
+        "password": "xyza",
+        "file": null
+    },
+    {
+        "firstName": "",
+        "lastName": "",
+        "age": "",
+        "designation": null,
+        "language": null,
+        "email": "admin@gmail.com",
+        "password": "abcd"
+    }
+]
