@@ -1,0 +1,34 @@
+#submit,#reset{
+	background-color: #2E666A;
+	padding: 5px;
+	width: 100px;
+}
+#header{
+	background-color: #25C6B2;
+	text-align: center;
+	padding: 17px ;
+}
+
+#future{
+    color: blue;
+}
+.bar{
+	padding: 15px 10px;
+	background-color: #3C167B;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+#registration{
+	background-color: #E3E8E9;
+	padding: 17px;
+	border-left: 10px solid #3B7175;
+}
+
+.input{
+	background-color: yellow;
+	padding: 5px;
+}
+
